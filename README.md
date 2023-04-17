@@ -13,6 +13,8 @@
 - [Food2Fork-KMM](https://github.com/mitchtabian/Food2Fork-KMM#readme)
 - [TMDbMultiplatform](https://github.com/Drjacky/TMDbMultiplatform#readme)
 - [kmm-basic-sample](https://github.com/Kotlin/kmm-basic-sample#readme)
+- [Expressus](https://github.com/GuilhE/Expressus#readme)
+
 
 ## Templates
 - [compose-multiplatform-template](https://github.com/JetBrains/compose-multiplatform-template#readme)
