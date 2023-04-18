@@ -15,12 +15,12 @@
 - [kmm-basic-sample](https://github.com/Kotlin/kmm-basic-sample#readme)
 - [Expressus](https://github.com/GuilhE/Expressus#readme)
 
-
 ## Templates
 - [compose-multiplatform-template](https://github.com/JetBrains/compose-multiplatform-template#readme)
 - [KaMPKit](https://github.com/touchlab/KaMPKit#readme)
 - [moko-template](https://github.com/icerockdev/moko-template#readme)
 - [ComposeMultiplatform](https://github.com/qamarelsafadi/ComposeMultiplatform#readme)
+- [Chrome Extension](https://github.com/GaryLaurenceau/kotlin-chrome-extension#readme)
 
 ## Libraries
 
