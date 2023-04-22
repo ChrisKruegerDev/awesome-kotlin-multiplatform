@@ -7,6 +7,7 @@
 - [Confetti](https://github.com/joreilly/Confetti#readme)
 - [MortyComposeKMM](https://github.com/joreilly/MortyComposeKMM#readme)
 - [NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP#readme)
+- [IReader](https://github.com/IReaderorg/IReader#readme)
 - [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP#readme)
 - [tivi](https://github.com/chrisbanes/tivi#readme)
 - [KotlinMultiplaftorm-WeatherApp](https://github.com/Nikola-Milovic/KotlinMultiplaftorm-WeatherApp#readme)
@@ -16,6 +17,7 @@
 - [Expressus](https://github.com/GuilhE/Expressus#readme)
 - [Transer](https://github.com/kisa002/Transer)
 - [PremierLeague](https://github.com/holdbetter/PremierLeague#readme)
+
 
 
 ## Templates
