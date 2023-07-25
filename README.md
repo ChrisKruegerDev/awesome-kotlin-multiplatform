@@ -7,6 +7,7 @@
 - [PeopleInSpace](https://github.com/joreilly/PeopleInSpace#readme)
 - [FantasyPremierLeague](https://github.com/joreilly/FantasyPremierLeague#readme)
 - [Confetti](https://github.com/joreilly/Confetti#readme)
+- [midjourney-images-compose-multiplatform](https://github.com/mbakgun/midjourney-images-compose-multiplatform#readme)
 - [MortyComposeKMM](https://github.com/joreilly/MortyComposeKMM#readme)
 - [NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP#readme)
 - [IReader](https://github.com/IReaderorg/IReader#readme)
@@ -72,7 +73,6 @@ Useful libraries for developing in a Kotlin Multiplatform project.
 - UI
   - [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform#readme)
   - [compose-multiplatform-core](https://github.com/JetBrains/compose-multiplatform-core#readme)
-  - [midjourney-images-compose-multiplatform](https://github.com/mbakgun/midjourney-images-compose-multiplatform#readme)
   - [compose-imageloader](https://github.com/qdsfdhvh/compose-imageloader#readme)
   - [moko-widgets](https://github.com/icerockdev/moko-widgets#readme)
   - [moko-resources](https://github.com/icerockdev/moko-resources#readme)
