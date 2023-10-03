@@ -23,6 +23,7 @@
 - [Foodium-KMM](https://github.com/PatilShreyas/Foodium-KMM#readme)
 - [GalwayBus](https://github.com/joreilly/GalwayBus#readme)
 - [AnimeFollowKMM](https://github.com/Breens-Mbaka/AnimeFollowKMM#readme)
+- [KMM-Torch](https://github.com/kisa002/kmm-torch)
 
 
 ## Templates
