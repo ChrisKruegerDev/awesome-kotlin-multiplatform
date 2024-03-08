@@ -87,6 +87,7 @@ Useful libraries for developing in a Kotlin Multiplatform project.
   
 - Others
   - [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk#readme)
+  - [telegram-bot](https://github.com/vendelieu/telegram-bot#readme)
 
 ## Frameworks & Collections
 - [trikot](https://github.com/mirego/trikot#readme)
