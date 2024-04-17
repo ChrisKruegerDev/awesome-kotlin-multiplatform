@@ -41,7 +41,7 @@ Useful libraries for developing in a Kotlin Multiplatform project.
   - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization#readme)
   - [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime#readme)
   - [kotlinx-io](https://github.com/Kotlin/kotlinx-io#readme)
-  - 
+
 - Dependency Injection
   - [koin](https://github.com/InsertKoinIO/koin#readme)
   - [Kodein](https://github.com/kosi-libs/Kodein#readme)
@@ -84,7 +84,8 @@ Useful libraries for developing in a Kotlin Multiplatform project.
   - [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging#readme)
   - [kuuuurt/multiplatform-paging](https://github.com/kuuuurt/multiplatform-paging#readme)
   - [moko-paging](https://github.com/icerockdev/moko-paging#readme)
-  
+  - [telegram-bot](https://github.com/vendelieu/telegram-bot#readme)
+  - 
 - Others
   - [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk#readme)
 
