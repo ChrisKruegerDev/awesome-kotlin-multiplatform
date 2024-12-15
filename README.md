@@ -46,6 +46,7 @@ Useful libraries for developing in a Kotlin Multiplatform project.
   - [koin](https://github.com/InsertKoinIO/koin#readme)
   - [Kodein](https://github.com/kosi-libs/Kodein#readme)
   - [injector4k](https://github.com/IgnatBeresnev/injector4k#readme)
+  - [Ivy DI](https://github.com/Ivy-Apps/di#readme)
   
 - Persistent
   - [sqldelight](https://github.com/cashapp/sqldelight#readme)
